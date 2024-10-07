@@ -1,0 +1,5 @@
+<resources>
+    <color name="primaryColor">#621F75</color>
+    <color name="secondaryColor">#5A5A5A</color>
+    <color name="editTextBackground">#F1F1F1</color>
+</resources>

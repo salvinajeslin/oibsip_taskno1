@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">UnitConverter</string>
+    <string name="convert_button">Convert</string>
+    <string-array name="unit_array">
+        <item>Centimeters</item>
+        <item>Meters</item>
+        <item>Grams</item>
+        <item>Kilograms</item>
+    </string-array>
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <item name="colorPrimary">@color/primaryColor</item>
+        <item name="colorPrimaryDark">@color/primaryColor</item>
+        <item name="colorAccent">@color/secondaryColor</item>
+    </style>
+</resources>
+
